@@ -1,0 +1,18 @@
+[disabled] {
+	color:grey;
+}
+input[readonly] {
+	border:none;
+}
+input[type="checkbox"]:checked {
+	opacity: 0.8;
+}
+.error {
+	color:red;
+}
+.taskLabels {
+	font-weight: normal;
+}
+#taskName {
+	margin: 0 0 20px 0;
+}
